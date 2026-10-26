@@ -267,3 +267,9 @@ AI Engineer | Python | Machine Learning | Generative AI & LLMs
 ## 📄 Disclaimer
 
 CareerNexus AI is a career-support and resume-analysis project intended for educational and informational purposes. Its skills coverage estimate is not a validated ATS score, a hiring prediction, or a guarantee of employment.
+
+## 🎬 CareerNexus AI Output 
+
+Watch my project walkthrough, demonstrating resume upload, job-description matching, AI-powered career Q&A, and report download.
+
+▶️ [**Watch the CareerNexus AI Output**](https://drive.google.com/file/d/11FaTUo2njoHHxAaO1Jorn6vfqFHXB_uQ/view?usp=drive_link)
